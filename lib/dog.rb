@@ -14,7 +14,7 @@ def sit
   end
 
 snoopy = Dog.new
-snoopy.bark
+puts snoopy
 
 lassie = Dog.new
-lassie.bark
+puts lassie
