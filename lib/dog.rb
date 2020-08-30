@@ -6,7 +6,7 @@ def bark
   end
   
 fido = Dog.new
-puts fido.bark
+puts fido
   
   
 def sit
